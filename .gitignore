@@ -1,0 +1,42 @@
+# ------------------------------------------------------------------------------
+# MATLAB Autosave, Backup, and Cache Files
+# ------------------------------------------------------------------------------
+*.asv              # Windows autosave
+*.m~               # macOS/*nix autosave
+*.autosave         # Simulink autosave
+*.slxc             # Simulink cache files
+.MATLABDriveTag    # MATLAB Drive dotfile
+
+# ------------------------------------------------------------------------------
+# Compiled & Obfuscated Files
+# ------------------------------------------------------------------------------
+*.p                # Obfuscated MATLAB files
+*.mex*             # Compiled MEX binaries (cross-platform)
+
+# ------------------------------------------------------------------------------
+# Packaged Apps and Toolboxes
+# ------------------------------------------------------------------------------
+*.mlappinstall     # Packaged MATLAB App
+*.mltbx            # Packaged MATLAB Toolbox
+
+# ------------------------------------------------------------------------------
+# Deployable Archives
+# ------------------------------------------------------------------------------
+*.ctf              # Compiler toolbox files (deployable archives)
+
+# ------------------------------------------------------------------------------
+# Code Generation Folders (Simulink / MATLAB Coder)
+# ------------------------------------------------------------------------------
+slprj/             # Simulink project code
+sccprj/            # Simulink component code
+codegen/           # MATLAB/Simulink code generation output
+
+# ------------------------------------------------------------------------------
+# Help and Documentation Cache
+# ------------------------------------------------------------------------------
+helpsearch*/       # Generated help search folders
+
+# ------------------------------------------------------------------------------
+# Octave
+# ------------------------------------------------------------------------------
+octave-workspace   # Octave session file
